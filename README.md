@@ -1,6 +1,6 @@
 # Spring Boot Application
 
-이것은 기본 Spring Boot 프로젝트입니다.
+Spring Boot test
 
 ## 프로젝트 구조
 
